@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643815864 source:c:\users\share\onedrive\documents\c++\fifthproject\main.cpp
+	<iostream>
+	"myclassdemo.h"
+
+1643816159 c:\users\share\onedrive\documents\c++\fifthproject\myclassdemo.h
+
+1643816159 source:c:\users\share\onedrive\documents\c++\fifthproject\myclassdemo.cpp
+	"myclassdemo.h"
+	<iostream>
+
